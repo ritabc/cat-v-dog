@@ -1,0 +1,12 @@
+div.col-md-6 {
+  text-align: center;
+  margin: auto;
+}
+
+button {
+  margin: 10px;
+}
+
+li {
+  list-style-type: none;
+}
